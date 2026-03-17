@@ -1,11 +1,11 @@
 # E-Commerce Sales Performance & Statistical Analysis
-Python project analyzing e-commerce sales data to understand product performance, revenue trends, and customer purchasing behavior.
+Python project analyzing e-commerce sales data to understand product performance, revenue trends, and customer behavior.
 
 ## Business Task
-Analyze e-commerce sales data to understand revenue trends, product performance, and customer purchasing behavior.
+Analyze e-commerce sales data to understand revenue trends, product performance, and customer behavior.
 
 ## Tools
-SQL, Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau, Statistical Analysis, Exploratory Data Analysis
+SQL, Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau, Exploratory Data Analysis, Statistical Analysis
 
 ## Key Insights
 - Sales performance differs across product categories.
