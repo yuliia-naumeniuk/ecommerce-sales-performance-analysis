@@ -5,7 +5,7 @@ Python project analyzing e-commerce sales data to understand product performance
 Analyze e-commerce sales data to understand revenue trends, product performance, and customer behavior.
 
 ## Tools
-SQL, Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau, Exploratory Data Analysis, Statistical Analysis
+Python (Pandas, NumPy), SQL, Data Visualization (Matplotlib, Seaborn, Tableau), Exploratory Data Analysis (EDA), Statistical Analysis
 
 ## Key Insights
 - Sales performance differs across product categories.
